@@ -1,6 +1,7 @@
 {
   "name": "hello-terra",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "1.1.1",
   "description": "Custom Github Action",
   "main": "Index.js",
   "scripts": {
